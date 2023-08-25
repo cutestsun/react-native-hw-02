@@ -8,7 +8,7 @@ import {
   KeyboardAvoidingView,
 } from "react-native";
 
-import { colors } from "../utils/variables"; //! FIX
+import { colors } from "../utils/variables";
 import { useState } from "react";
 
 export const LoginScreen = () => {

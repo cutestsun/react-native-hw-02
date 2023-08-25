@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import Icon from "react-native-vector-icons/Ionicons";
 
-import { colors } from "../utils/variables"; //! FIX
+import { colors } from "../utils/variables"; 
 import { useState } from "react";
 
 export const RegistrationScreen = () => {
